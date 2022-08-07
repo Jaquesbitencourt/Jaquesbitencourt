@@ -13,8 +13,8 @@
 
 <div align="center" style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="python" src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117" />
-    <img align="center" alt="css" src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117" />
+    <img align="center" alt="python" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="css" src="https://img.shields.io/badge/CSS-0D1117?&style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=white " />
     
 
