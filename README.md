@@ -1,5 +1,2 @@
-Olá !! Sou Jaques Bitencourt
-
-<div>
-  <a href ="https://beacons.ai/jaquesbitencourt">
-  <img height="180em" src=
+<a href="https://github-readme-stats.vercel.app/api?username=Jaquesbitencourt&theme=dark&show_icons=true">
+    
