@@ -4,7 +4,7 @@
 
 
 <div align="center">  
-  <img width="59%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jaquesbitencourt&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="59%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jaquesbitencourt&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jaques Braz Bitencourt github stats" /> 
   <img width="60%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaquesbitencourt&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=0d1117" />
 </div>
 
