@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=2400&color=00BFFF&size=30&center=true&vCenter=true&multiline=true&width=600&height=190&width=1000&lines=Hello+My+Name+is+Jaques+Braz+Bitencourt+;I'm+26+years+old%2CI+from+Brasil++;I+want+to+become+a+Front-end+developer;I+study+analysis+and+systems+development+at+Impacta+;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=2400&color=00BFFF&size=30&center=true&vCenter=true&multiline=true&width=600&height=190&width=1000&lines=Hello+My+Name+is+Jaques+Braz+Bitencourt+;I'm+26+years+old%2CI+from+Brazil++;I+want+to+become+a+Front-end+developer;I+study+analysis+and+systems+development+at+Impacta+;Be+Welcome!)](https://git.io/typing-svg)
 
 
 <div align="center">  
